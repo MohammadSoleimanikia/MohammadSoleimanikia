@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammad</h1>
 <h3 align="center">A passionate web developer</h3>
-
+<img src="./cat.gif" alt="cat" style="width: 100%; max-width: 800px;"/>
 - 🌱 I’m currently learning **backend knowledge**
 
 - 📫 How to reach me **soleimanikia.mohammad@gmail.com**
