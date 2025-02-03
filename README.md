@@ -28,9 +28,10 @@
 	
 </div>
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadsoleimanikia&show_icons=true&locale=en&layout=compact" alt="mohammadsoleimanikia" /></p>
-<br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammadsoleimanikia&show_icons=true&locale=en" alt="mohammadsoleimanikia" /></p>
+<div style='display:flex; justify-content:space-between ; width:100%'>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadsoleimanikia&show_icons=true&locale=en&layout=compact" alt="mohammadsoleimanikia" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammadsoleimanikia&show_icons=true&locale=en" alt="mohammadsoleimanikia" />
+</div>
 <br>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohammadSoleimanikia&theme=tokyo-night" alt="Mohammad's GitHub activity graph">
 
