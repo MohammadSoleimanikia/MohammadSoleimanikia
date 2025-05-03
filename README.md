@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad</h1>
 <h3 align="center">A passionate web developer</h3>
-<img src="./cat.gif" alt="cat" style="width: 100%;"/>
-
 <h3 align="center">Languages and Tools:</h3>
 <div align="center">
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/></code>
