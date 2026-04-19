@@ -10,7 +10,6 @@
   <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/sass.png" title="Sass"/></code>
   <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/bootstrap.png" title="Bootstrap"/></code>
   <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/tailwind_css.png" title="Tailwind CSS"/></code>
-  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/material_ui.png" title="Material UI"/></code>
   <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/shadcn_ui.png" title="ShadCn UI"/></code>
   <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/javascript.png" title="JavaScript"/></code>
   <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/typescript.png" title="TypeScript"/></code>
@@ -18,17 +17,12 @@
   <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/next_js.png" title="Next.js"/></code>
   <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/redux.png" title="Redux"/></code>
 
-  <!-- Back-End -->
-  <h4>⚙️ Back-End</h4>
-  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/node_js.png" title="Node.js"/></code>
-  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/express.png" title="Express"/></code>
-  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/postgresql.png" title="PostgreSQL"/></code>
 
   <!-- Tools -->
   <h4>🛠 Tools & Others</h4>
   <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/git.png" title="Git"/></code>
   <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/postman.png" title="Postman"/></code>
-  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/figma.png" title="Figma"/></code>
+
 
 </div>
 <br>
