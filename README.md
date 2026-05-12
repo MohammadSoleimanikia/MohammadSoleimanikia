@@ -66,12 +66,6 @@
 <details align="center">
   <summary>📊 GitHub Stats (click to expand)</summary>
   <br>
-  <div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadsoleimanikia&show_icons=true&locale=en&layout=compact" alt="mohammadsoleimanikia" />
-    <br><br>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammadsoleimanikia&show_icons=true&locale=en" alt="mohammadsoleimanikia" />
-  </div>
-  <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohammadSoleimanikia&theme=tokyo-night" alt="Mohammad's GitHub activity graph">
 </details>
 
