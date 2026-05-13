@@ -45,7 +45,7 @@
 <table align="center">
   <tr>
     <td><strong>Sales Management</strong> (in progress)</td>
-    <td>Cloud-based invoicing app · <a href="https://invoicebuilder.runflare.run/">Live Demo</a></td>
+    <td>Cloud-based invoicing app · <a href="https://invoice-builder-pro.vercel.app/">Live Demo</a></td>
   </tr>
   <tr>
     <td><strong>Budget Management</strong></td>
